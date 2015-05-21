@@ -7,7 +7,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-    
+    <!-- prueba repositorio  -->
    <h1><b><center>TALLER DE MOTOS "PILDORA"</center></b></h1>
 <center><img alt="Hola" src="imagenes/construccion.jpg"/></center>
 </html>
